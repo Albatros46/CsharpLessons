@@ -1,0 +1,11 @@
+C:\Users\KCDG\source\repos\Diziler\bin\Debug\netcoreapp3.1\Diziler.exe
+C:\Users\KCDG\source\repos\Diziler\bin\Debug\netcoreapp3.1\Diziler.deps.json
+C:\Users\KCDG\source\repos\Diziler\bin\Debug\netcoreapp3.1\Diziler.runtimeconfig.json
+C:\Users\KCDG\source\repos\Diziler\bin\Debug\netcoreapp3.1\Diziler.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\Diziler\bin\Debug\netcoreapp3.1\Diziler.dll
+C:\Users\KCDG\source\repos\Diziler\bin\Debug\netcoreapp3.1\Diziler.pdb
+C:\Users\KCDG\source\repos\Diziler\obj\Debug\netcoreapp3.1\Diziler.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\Diziler\obj\Debug\netcoreapp3.1\Diziler.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\Diziler\obj\Debug\netcoreapp3.1\Diziler.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\Diziler\obj\Debug\netcoreapp3.1\Diziler.dll
+C:\Users\KCDG\source\repos\Diziler\obj\Debug\netcoreapp3.1\Diziler.pdb

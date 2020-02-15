@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PersonelModelStoreContainer" CdmEntityContainer="PersonelEntities">
+    <EntitySetMapping Name="DepartmanTb">
+      <EntityTypeMapping TypeName="PersonelModel.DepartmanTb">
+        <MappingFragment StoreEntitySet="DepartmanTb">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Adi" ColumnName="Adi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonelTb">
+      <EntityTypeMapping TypeName="PersonelModel.PersonelTb">
+        <MappingFragment StoreEntitySet="PersonelTb">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DepartmanId" ColumnName="DepartmanId" />
+          <ScalarProperty Name="Ad" ColumnName="Ad" />
+          <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+          <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+          <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+          <ScalarProperty Name="MedeniHali" ColumnName="MedeniHali" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

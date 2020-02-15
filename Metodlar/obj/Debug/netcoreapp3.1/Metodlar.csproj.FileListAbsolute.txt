@@ -1,0 +1,11 @@
+C:\Users\KCDG\source\repos\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.exe
+C:\Users\KCDG\source\repos\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.deps.json
+C:\Users\KCDG\source\repos\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.json
+C:\Users\KCDG\source\repos\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\KCDG\source\repos\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\KCDG\source\repos\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\KCDG\source\repos\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.pdb

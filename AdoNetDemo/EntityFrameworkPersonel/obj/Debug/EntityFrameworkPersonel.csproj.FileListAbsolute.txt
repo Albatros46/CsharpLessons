@@ -1,0 +1,14 @@
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFrameworkPersonel.exe.config
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFrameworkPersonel.exe
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFrameworkPersonel.pdb
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.Form1.resources
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.Properties.Resources.resources
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.csproj.GenerateResource.cache
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.exe
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.pdb
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFramework.dll
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFramework.xml
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KCDG\source\repos\AdoNetDemo\EntityFrameworkPersonel\obj\Debug\EntityFrameworkPersonel.csproj.CopyComplete

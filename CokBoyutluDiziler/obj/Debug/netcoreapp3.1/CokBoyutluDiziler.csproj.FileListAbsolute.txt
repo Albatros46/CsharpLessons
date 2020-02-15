@@ -1,0 +1,10 @@
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\bin\Debug\netcoreapp3.1\CokBoyutluDiziler.exe
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\bin\Debug\netcoreapp3.1\CokBoyutluDiziler.deps.json
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\bin\Debug\netcoreapp3.1\CokBoyutluDiziler.runtimeconfig.json
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\bin\Debug\netcoreapp3.1\CokBoyutluDiziler.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\bin\Debug\netcoreapp3.1\CokBoyutluDiziler.dll
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\bin\Debug\netcoreapp3.1\CokBoyutluDiziler.pdb
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\obj\Debug\netcoreapp3.1\CokBoyutluDiziler.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\obj\Debug\netcoreapp3.1\CokBoyutluDiziler.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\obj\Debug\netcoreapp3.1\CokBoyutluDiziler.dll
+C:\Users\KCDG\source\repos\CokBoyutluDiziler\obj\Debug\netcoreapp3.1\CokBoyutluDiziler.pdb

@@ -1,0 +1,11 @@
+C:\Users\KCDG\source\repos\Siniflar\bin\Debug\netcoreapp3.1\Siniflar.exe
+C:\Users\KCDG\source\repos\Siniflar\bin\Debug\netcoreapp3.1\Siniflar.deps.json
+C:\Users\KCDG\source\repos\Siniflar\bin\Debug\netcoreapp3.1\Siniflar.runtimeconfig.json
+C:\Users\KCDG\source\repos\Siniflar\bin\Debug\netcoreapp3.1\Siniflar.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\Siniflar\bin\Debug\netcoreapp3.1\Siniflar.dll
+C:\Users\KCDG\source\repos\Siniflar\bin\Debug\netcoreapp3.1\Siniflar.pdb
+C:\Users\KCDG\source\repos\Siniflar\obj\Debug\netcoreapp3.1\Siniflar.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\Siniflar\obj\Debug\netcoreapp3.1\Siniflar.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\Siniflar\obj\Debug\netcoreapp3.1\Siniflar.dll
+C:\Users\KCDG\source\repos\Siniflar\obj\Debug\netcoreapp3.1\Siniflar.pdb
+C:\Users\KCDG\source\repos\Siniflar\obj\Debug\netcoreapp3.1\Siniflar.csprojAssemblyReference.cache

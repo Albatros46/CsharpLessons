@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\InterFaceses\InterFaceses\bin\Debug\InterFaceses.exe.config
+C:\Users\KCDG\source\repos\InterFaceses\InterFaceses\bin\Debug\InterFaceses.exe
+C:\Users\KCDG\source\repos\InterFaceses\InterFaceses\bin\Debug\InterFaceses.pdb
+C:\Users\KCDG\source\repos\InterFaceses\InterFaceses\obj\Debug\InterFaceses.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\InterFaceses\InterFaceses\obj\Debug\InterFaceses.exe
+C:\Users\KCDG\source\repos\InterFaceses\InterFaceses\obj\Debug\InterFaceses.pdb

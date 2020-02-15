@@ -1,0 +1,10 @@
+C:\Users\KCDG\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+C:\Users\KCDG\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+C:\Users\KCDG\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+C:\Users\KCDG\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+C:\Users\KCDG\source\repos\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+C:\Users\KCDG\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+C:\Users\KCDG\source\repos\Loops\obj\Debug\netcoreapp3.1\Loops.pdb

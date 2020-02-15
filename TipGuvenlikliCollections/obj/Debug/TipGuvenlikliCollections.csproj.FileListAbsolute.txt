@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\TipGuvenlikliCollections\bin\Debug\TipGuvenlikliCollections.exe.config
+C:\Users\KCDG\source\repos\TipGuvenlikliCollections\bin\Debug\TipGuvenlikliCollections.exe
+C:\Users\KCDG\source\repos\TipGuvenlikliCollections\bin\Debug\TipGuvenlikliCollections.pdb
+C:\Users\KCDG\source\repos\TipGuvenlikliCollections\obj\Debug\TipGuvenlikliCollections.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\TipGuvenlikliCollections\obj\Debug\TipGuvenlikliCollections.exe
+C:\Users\KCDG\source\repos\TipGuvenlikliCollections\obj\Debug\TipGuvenlikliCollections.pdb

@@ -1,0 +1,10 @@
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\bin\Debug\netcoreapp3.1\switchDeneme.exe
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\bin\Debug\netcoreapp3.1\switchDeneme.deps.json
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\bin\Debug\netcoreapp3.1\switchDeneme.runtimeconfig.json
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\bin\Debug\netcoreapp3.1\switchDeneme.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\bin\Debug\netcoreapp3.1\switchDeneme.dll
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\bin\Debug\netcoreapp3.1\switchDeneme.pdb
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\obj\Debug\netcoreapp3.1\switchDeneme.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\obj\Debug\netcoreapp3.1\switchDeneme.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\obj\Debug\netcoreapp3.1\switchDeneme.dll
+C:\Users\KCDG\source\repos\switchDeneme\switchDeneme\obj\Debug\netcoreapp3.1\switchDeneme.pdb

@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\KCDG\source\repos\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\KCDG\source\repos\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\KCDG\source\repos\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\KCDG\source\repos\AbstractClasses\obj\Debug\AbstractClasses.pdb

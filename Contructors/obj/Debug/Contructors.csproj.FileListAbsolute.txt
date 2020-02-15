@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\Contructors\bin\Debug\Contructors.exe.config
+C:\Users\KCDG\source\repos\Contructors\bin\Debug\Contructors.exe
+C:\Users\KCDG\source\repos\Contructors\bin\Debug\Contructors.pdb
+C:\Users\KCDG\source\repos\Contructors\obj\Debug\Contructors.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\Contructors\obj\Debug\Contructors.exe
+C:\Users\KCDG\source\repos\Contructors\obj\Debug\Contructors.pdb

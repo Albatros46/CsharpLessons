@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\AdoNetDemo\Generics\bin\Debug\Generics.exe.config
+C:\Users\KCDG\source\repos\AdoNetDemo\Generics\bin\Debug\Generics.exe
+C:\Users\KCDG\source\repos\AdoNetDemo\Generics\bin\Debug\Generics.pdb
+C:\Users\KCDG\source\repos\AdoNetDemo\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\AdoNetDemo\Generics\obj\Debug\Generics.exe
+C:\Users\KCDG\source\repos\AdoNetDemo\Generics\obj\Debug\Generics.pdb

@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\VirtualMetod\bin\Debug\VirtualMetod.exe.config
+C:\Users\KCDG\source\repos\VirtualMetod\bin\Debug\VirtualMetod.exe
+C:\Users\KCDG\source\repos\VirtualMetod\bin\Debug\VirtualMetod.pdb
+C:\Users\KCDG\source\repos\VirtualMetod\obj\Debug\VirtualMetod.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\VirtualMetod\obj\Debug\VirtualMetod.exe
+C:\Users\KCDG\source\repos\VirtualMetod\obj\Debug\VirtualMetod.pdb

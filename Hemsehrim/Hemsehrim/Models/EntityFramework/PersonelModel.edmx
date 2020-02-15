@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="PersonelModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="DepartmanTb">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Adi" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="PersonelTb">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DepartmanId" Type="int" />
+          <Property Name="Ad" Type="nvarchar" MaxLength="50" />
+          <Property Name="Soyad" Type="nvarchar" MaxLength="50" />
+          <Property Name="DogumTarihi" Type="smalldatetime" />
+          <Property Name="Cinsiyet" Type="bit" />
+          <Property Name="MedeniHali" Type="bit" />
+        </EntityType>
+        <Association Name="FK_PersonelTb_DepartmanTb">
+          <End Role="DepartmanTb" Type="Self.DepartmanTb" Multiplicity="0..1" />
+          <End Role="PersonelTb" Type="Self.PersonelTb" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DepartmanTb">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PersonelTb">
+              <PropertyRef Name="DepartmanId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PersonelModelStoreContainer">
+          <EntitySet Name="DepartmanTb" EntityType="Self.DepartmanTb" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PersonelTb" EntityType="Self.PersonelTb" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_PersonelTb_DepartmanTb" Association="Self.FK_PersonelTb_DepartmanTb">
+            <End Role="DepartmanTb" EntitySet="DepartmanTb" />
+            <End Role="PersonelTb" EntitySet="PersonelTb" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="PersonelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="DepartmanTb">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="PersonelTb" Relationship="Self.FK_PersonelTb_DepartmanTb" FromRole="DepartmanTb" ToRole="PersonelTb" />
+        </EntityType>
+        <EntityType Name="PersonelTb">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DepartmanId" Type="Int32" />
+          <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DogumTarihi" Type="DateTime" Precision="0" />
+          <Property Name="Cinsiyet" Type="Boolean" />
+          <Property Name="MedeniHali" Type="Boolean" />
+          <NavigationProperty Name="DepartmanTb" Relationship="Self.FK_PersonelTb_DepartmanTb" FromRole="PersonelTb" ToRole="DepartmanTb" />
+        </EntityType>
+        <Association Name="FK_PersonelTb_DepartmanTb">
+          <End Role="DepartmanTb" Type="Self.DepartmanTb" Multiplicity="0..1" />
+          <End Role="PersonelTb" Type="Self.PersonelTb" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DepartmanTb">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="PersonelTb">
+              <PropertyRef Name="DepartmanId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="PersonelEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="DepartmanTb" EntityType="Self.DepartmanTb" />
+          <EntitySet Name="PersonelTb" EntityType="Self.PersonelTb" />
+          <AssociationSet Name="FK_PersonelTb_DepartmanTb" Association="Self.FK_PersonelTb_DepartmanTb">
+            <End Role="DepartmanTb" EntitySet="DepartmanTb" />
+            <End Role="PersonelTb" EntitySet="PersonelTb" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="PersonelModelStoreContainer" CdmEntityContainer="PersonelEntities">
+          <EntitySetMapping Name="DepartmanTb">
+            <EntityTypeMapping TypeName="PersonelModel.DepartmanTb">
+              <MappingFragment StoreEntitySet="DepartmanTb">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Adi" ColumnName="Adi" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PersonelTb">
+            <EntityTypeMapping TypeName="PersonelModel.PersonelTb">
+              <MappingFragment StoreEntitySet="PersonelTb">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="DepartmanId" ColumnName="DepartmanId" />
+                <ScalarProperty Name="Ad" ColumnName="Ad" />
+                <ScalarProperty Name="Soyad" ColumnName="Soyad" />
+                <ScalarProperty Name="DogumTarihi" ColumnName="DogumTarihi" />
+                <ScalarProperty Name="Cinsiyet" ColumnName="Cinsiyet" />
+                <ScalarProperty Name="MedeniHali" ColumnName="MedeniHali" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

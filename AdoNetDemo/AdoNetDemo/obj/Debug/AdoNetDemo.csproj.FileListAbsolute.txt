@@ -1,0 +1,9 @@
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\KCDG\source\repos\AdoNetDemo\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

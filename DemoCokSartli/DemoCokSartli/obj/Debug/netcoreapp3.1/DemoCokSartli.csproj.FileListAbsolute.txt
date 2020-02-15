@@ -1,0 +1,11 @@
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\bin\Debug\netcoreapp3.1\DemoCokSartli.exe
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\bin\Debug\netcoreapp3.1\DemoCokSartli.deps.json
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\bin\Debug\netcoreapp3.1\DemoCokSartli.runtimeconfig.json
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\bin\Debug\netcoreapp3.1\DemoCokSartli.runtimeconfig.dev.json
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\bin\Debug\netcoreapp3.1\DemoCokSartli.dll
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\bin\Debug\netcoreapp3.1\DemoCokSartli.pdb
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\obj\Debug\netcoreapp3.1\DemoCokSartli.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\obj\Debug\netcoreapp3.1\DemoCokSartli.AssemblyInfoInputs.cache
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\obj\Debug\netcoreapp3.1\DemoCokSartli.AssemblyInfo.cs
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\obj\Debug\netcoreapp3.1\DemoCokSartli.dll
+C:\Users\KCDG\source\repos\DemoCokSartli\DemoCokSartli\obj\Debug\netcoreapp3.1\DemoCokSartli.pdb

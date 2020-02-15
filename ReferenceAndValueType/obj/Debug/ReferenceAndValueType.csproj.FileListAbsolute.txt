@@ -1,0 +1,6 @@
+C:\Users\KCDG\source\repos\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe.config
+C:\Users\KCDG\source\repos\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.exe
+C:\Users\KCDG\source\repos\ReferenceAndValueType\bin\Debug\ReferenceAndValueType.pdb
+C:\Users\KCDG\source\repos\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\KCDG\source\repos\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.exe
+C:\Users\KCDG\source\repos\ReferenceAndValueType\obj\Debug\ReferenceAndValueType.pdb
