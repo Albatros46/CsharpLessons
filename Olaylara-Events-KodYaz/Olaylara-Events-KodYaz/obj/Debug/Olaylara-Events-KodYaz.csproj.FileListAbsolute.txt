@@ -1,0 +1,9 @@
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\bin\Debug\Olaylara-Events-KodYaz.exe.config
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\bin\Debug\Olaylara-Events-KodYaz.exe
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\bin\Debug\Olaylara-Events-KodYaz.pdb
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\obj\Debug\Olaylara-Events-KodYaz.csprojAssemblyReference.cache
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\obj\Debug\Olaylara_Events_KodYaz.Form1.resources
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\obj\Debug\Olaylara_Events_KodYaz.Properties.Resources.resources
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\obj\Debug\Olaylara-Events-KodYaz.csproj.GenerateResource.cache
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\obj\Debug\Olaylara-Events-KodYaz.exe
+E:\CSProjeler\C#Form\Olaylara-Events-KodYaz\Olaylara-Events-KodYaz\obj\Debug\Olaylara-Events-KodYaz.pdb

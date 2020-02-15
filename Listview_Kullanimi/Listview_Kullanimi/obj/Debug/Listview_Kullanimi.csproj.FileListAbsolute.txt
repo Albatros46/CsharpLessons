@@ -1,0 +1,10 @@
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\bin\Debug\Listview_Kullanimi.exe.config
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\bin\Debug\Listview_Kullanimi.exe
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\bin\Debug\Listview_Kullanimi.pdb
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.csprojAssemblyReference.cache
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.Form1.resources
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.Properties.Resources.resources
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.csproj.GenerateResource.cache
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.exe
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.pdb
+E:\CSProjeler\C#Form\Listview_Kullanimi\Listview_Kullanimi\obj\Debug\Listview_Kullanimi.Form2.resources
